@@ -1,5 +1,6 @@
 from getpass import getpass
-import instaloader
+from auto_import import auto_import
+auto_import("instaloader")
 
 
 def fetch_instagram_follower_data():
