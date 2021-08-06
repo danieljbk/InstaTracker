@@ -1,2 +1,2 @@
 # Track Your Instagram Followers
-Simply run the file in Terminal, and input your username and password.
+Simply run [main.py](https://github.com/danieljbk/track_instagram_followers/blob/main/main.py) in Terminal. When prompted, type in your username and password.
